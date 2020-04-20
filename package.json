@@ -2,6 +2,7 @@
   "name": "vue-test-utils-getting-started",
   "version": "1.0.0",
   "dependencies": {
+    "ant-design-vue": "^1.5.3",
     "vue": "^2.4.4"
   },
   "devDependencies": {
