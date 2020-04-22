@@ -2,6 +2,8 @@
   "name": "vue-test-utils-getting-started",
   "version": "1.0.0",
   "dependencies": {
+    "@testing-library/jest-dom": "^5.5.0",
+    "@testing-library/vue": "^5.0.2",
     "ant-design-vue": "^1.5.3",
     "vue": "^2.4.4"
   },
